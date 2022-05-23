@@ -26,3 +26,11 @@
 .evidenziato{
     background-color: yellow;
 }
+.intestazione-tabella{
+    height: 20px;
+    background-color: rgb(11, 47, 250);
+    color:white;
+}
+.riga-dispari{
+    background-color: rgb(0, 204, 255);
+}
