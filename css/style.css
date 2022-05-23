@@ -26,6 +26,9 @@
 .evidenziato{
     background-color: yellow;
 }
+.lista{
+    padding-left: 15px;
+}
 .intestazione-tabella{
     height: 20px;
     background-color: rgb(11, 47, 250);
