@@ -40,3 +40,19 @@
 .riga-dispari{
     background-color: rgb(0, 204, 255);
 }
+.scritta_footer{
+    color:grey;
+}
+.immagine_footer1{
+    width: 200px;
+    height: 200px;
+    background-image: url('../img/monitor.jpg');
+    color:white;
+    margin-bottom: 20px;
+}
+.immagine_footer2{
+    width: 200px;
+    height: 200px;
+    background-image: url('../img/graph.jpg');
+    color: white;
+}
