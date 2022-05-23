@@ -12,10 +12,17 @@
 
 .sottotitolo{
     color:dimgrey;
+
 }
 #scritta-blu{
     color:rgb(2, 151, 250);
 }
 #scritta-piccola{
     font-size: smaller;
+}
+.descrizione-foto{
+    font-size: small;
+}
+.evidenziato{
+    background-color: yellow;
 }
